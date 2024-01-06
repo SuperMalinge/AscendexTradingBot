@@ -1,5 +1,7 @@
 # Ascendex Trading Bot 🤖💰
 
+⚠️ **IMPORTANT**: This project is currently a draft and may not work correctly yet. Please use it for learning and testing purposes only.
+
 This is an automated trading bot for Ascendex built with Python. It uses the Ascendex API to fetch balance, subscribe to trades, and place new orders.
 
 ## Features 🚀
