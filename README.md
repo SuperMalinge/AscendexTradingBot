@@ -20,7 +20,7 @@ This is an automated trading bot for Ascendex built with Python. It uses the Asc
 1. Clone this repository.
 2. Install the required Python packages.
 3. Set your Ascendex API keys as environment variables.
-4. Run `python app.py`.
+4. Run `python main.py`.
 
 ## Contributing 🤝
 
