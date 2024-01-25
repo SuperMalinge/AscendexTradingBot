@@ -73,7 +73,6 @@ finally:
     # Close the WebSocket client
     await ws.close()
 
-# Close the database connection
 conn.close()
 
 # Schedule the bot to run every 10 minutes
