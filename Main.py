@@ -56,7 +56,6 @@ finally:
 ws = ascendex.web_socket_client.WebSocketClient(GROUP_ID, api_key, secret)
 
 try:
-    # Start the WebSocket client
     await ws.start()
 
     # Subscribe to trades
