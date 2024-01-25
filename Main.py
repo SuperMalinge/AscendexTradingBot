@@ -74,6 +74,5 @@ finally:
     await ws.close()
 
 conn.close()
-
 # Schedule the bot to run every 10 minutes
 schedule.every(10).minutes.do(job)
